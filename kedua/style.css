@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(255, 255, 255, 0.835);
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat; /* hanya separuh layar*/
+    background-position: bottom center;
+    /*background: url(logo.jpg) #3452ad no-repeat top center;*/
+}

@@ -1,0 +1,13 @@
+body{
+    background-image:linear-gradient(120deg,#adda,#123456);
+} 
+#bag1{
+    font-family: verdana;
+}#link,a{
+    text-transform: inherit;
+    text-decoration: none;
+    width: 300px;
+    border: 15px rgba(1, 24, 24, 0.667);
+    padding: 50px;
+    margin:20px;
+}

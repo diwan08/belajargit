@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(120deg,#045523,#345adf);
+}h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #345adf;
+} a{
+    text-decoration: none;
+}.center{
+    position: relative;
+    top: 50%;
+    left: 5;
+}.label{
+    text-align: center;
+}
